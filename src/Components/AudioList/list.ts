@@ -1,7 +1,7 @@
 export const SongsList:any  = [
     {
         name:"Heeriye",
-        src:"/src/assets/_Heeriye_320(PagalWorld.com.cm).mp3",
+        src:"/MusicPlayer/src/assets/_Heeriye_320(PagalWorld.com.cm).mp3",
         index:0
     },
     {
